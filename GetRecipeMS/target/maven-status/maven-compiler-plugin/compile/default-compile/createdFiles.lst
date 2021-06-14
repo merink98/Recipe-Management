@@ -1,0 +1,10 @@
+com\infosys\infyshop\product\repository\SubscribedProductRepository.class
+com\infosys\infyshop\product\repository\ProductRepository.class
+com\infosys\infyshop\product\entity\SubscribedProduct.class
+com\infosys\infyshop\product\service\ProductService.class
+com\infosys\infyshop\product\service\SubscribedProductService.class
+com\infosys\infyshop\product\controller\ProductController.class
+com\infosys\infyshop\product\dto\ProductDTO.class
+com\infosys\infyshop\product\dto\SubscribedProductDTO.class
+com\infosys\infyshop\product\entity\Product.class
+com\infosys\infyshop\product\ProductApplication.class

@@ -1,0 +1,79 @@
+
+≠com.infosys.infyshop.product.dto.SubscribedProductDTO#valueOf(Lcom/infosys/infyshop/product/entity/SubscribedProduct;)Lcom/infosys/infyshop/product/dto/SubscribedProductDTO;á
+}C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/dto/SubscribedProductDTO.java1$ 1(+"1*Á
+1á
+}C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/dto/SubscribedProductDTO.java2. 2(HÅ˛
+á
+}C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/dto/SubscribedProductDTO.java22 2(F;
+%05com.infosys.infyshop.product.dto.SubscribedProductDTO"5com.infosys.infyshop.product.dto.SubscribedProductDTOì
+ê
+á
+}C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/dto/SubscribedProductDTO.java2. 2(H
+%1"?com.infosys.infyshop.product.dto.SubscribedProductDTO#<init>()V*=
+;
+%05com.infosys.infyshop.product.dto.SubscribedProductDTO°
+û
+á
+}C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/dto/SubscribedProductDTO.java2 2(IM
+subscribedProductDTO5com.infosys.infyshop.product.dto.SubscribedProductDTO"__id*=
+;
+%05com.infosys.infyshop.product.dto.SubscribedProductDTO’“
+á
+}C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/dto/SubscribedProductDTO.java3  3(<
+%2java.lang.Integer"Scom.infosys.infyshop.product.entity.SubscribedProduct#getSubId()Ljava/lang/Integer;*L
+J
+subscribedProduct5com.infosys.infyshop.product.entity.SubscribedProduct2
+getSubId()˙˜
+á
+}C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/dto/SubscribedProductDTO.java3 3(=
+
+%3void"Tcom.infosys.infyshop.product.dto.SubscribedProductDTO#setSubId(Ljava/lang/Integer;)V*O
+M
+subscribedProductDTO5com.infosys.infyshop.product.dto.SubscribedProductDTO*
+
+%2java.lang.Integer2setSubId(Ljava/lang/Integer;)Ÿ÷
+á
+}C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/dto/SubscribedProductDTO.java4" 4(@
+%4java.lang.Integer"Ucom.infosys.infyshop.product.entity.SubscribedProduct#getBuyerId()Ljava/lang/Integer;*L
+J
+subscribedProduct5com.infosys.infyshop.product.entity.SubscribedProduct2getBuyerId()˛˚
+á
+}C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/dto/SubscribedProductDTO.java4 4(A
+
+%5void"Vcom.infosys.infyshop.product.dto.SubscribedProductDTO#setBuyerId(Ljava/lang/Integer;)V*O
+M
+subscribedProductDTO5com.infosys.infyshop.product.dto.SubscribedProductDTO*
+
+%4java.lang.Integer2setBuyerId(Ljava/lang/Integer;)◊‘
+á
+}C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/dto/SubscribedProductDTO.java5! 5(>
+%6java.lang.Integer"Tcom.infosys.infyshop.product.entity.SubscribedProduct#getProdId()Ljava/lang/Integer;*L
+J
+subscribedProduct5com.infosys.infyshop.product.entity.SubscribedProduct2getProdId()¸˘
+á
+}C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/dto/SubscribedProductDTO.java5 5(?
+
+%7void"Ucom.infosys.infyshop.product.dto.SubscribedProductDTO#setProdId(Ljava/lang/Integer;)V*O
+M
+subscribedProductDTO5com.infosys.infyshop.product.dto.SubscribedProductDTO*
+
+%6java.lang.Integer2setProdId(Ljava/lang/Integer;)ª∏
+á
+}C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/dto/SubscribedProductDTO.java6# 6(B	
+%8int"Dcom.infosys.infyshop.product.entity.SubscribedProduct#getQuantity()I*L
+J
+subscribedProduct5com.infosys.infyshop.product.entity.SubscribedProduct2getQuantity()ÚÔ
+á
+}C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/dto/SubscribedProductDTO.java6 6(C
+
+%9void"Wcom.infosys.infyshop.product.dto.SubscribedProductDTO#setQuantity(Ljava/lang/Integer;)V*O
+M
+subscribedProductDTO5com.infosys.infyshop.product.dto.SubscribedProductDTO*
+	
+%8int2 setQuantity(Ljava/lang/Integer;)"€
+á
+}C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/dto/SubscribedProductDTO.java7 7(O
+M
+subscribedProductDTO5com.infosys.infyshop.product.dto.SubscribedProductDTO:J
+subscribedProduct5com.infosys.infyshop.product.entity.SubscribedProductB9"7
+5com.infosys.infyshop.product.dto.SubscribedProductDTO
