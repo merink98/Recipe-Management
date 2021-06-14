@@ -1,0 +1,7 @@
+organization=merink98
+projectKey=com.infosys.infyshop:ProductMS
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.20206
+dashboardUrl=https://sonarcloud.io/dashboard?id=com.infosys.infyshop%3AProductMS
+ceTaskId=AXmIH0MMRglSo1uKsxJf
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXmIH0MMRglSo1uKsxJf

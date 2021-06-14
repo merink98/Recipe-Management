@@ -1,0 +1,34 @@
+
+com.infosys.infyshop.product.service.SubscribedProductService#addSubscribedProduct(Lcom/infosys/infyshop/product/dto/SubscribedProductDTO;)Ljava/lang/String;
+…C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/service/SubscribedProductService.java (#"1*Õ
+1
+…C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/service/SubscribedProductService.java (.±®
+
+…C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/service/SubscribedProductService.java (=;
+%05com.infosys.infyshop.product.entity.SubscribedProduct"{com.infosys.infyshop.product.dto.SubscribedProductDTO#createEntity()Lcom/infosys/infyshop/product/entity/SubscribedProduct;*O
+M
+subscribedProductDTO5com.infosys.infyshop.product.dto.SubscribedProductDTO2createEntity()™
+–
+
+…C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/service/SubscribedProductService.java (><
+sub5com.infosys.infyshop.product.entity.SubscribedProduct"__id*=
+;
+%05com.infosys.infyshop.product.entity.SubscribedProductË
+È
+
+…C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/service/SubscribedProductService.java (I
+%1Ccom.infosys.infyshop.product.repository.SubscribedProductRepository"__id*b*`?
+=com.infosys.infyshop.product.service.SubscribedProductService"
+subscribedproductRepositoryÙÖ
+
+…C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/service/SubscribedProductService.java (';
+%25com.infosys.infyshop.product.entity.SubscribedProduct"]org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;*K
+I
+%1Ccom.infosys.infyshop.product.repository.SubscribedProductRepository*>
+<
+sub5com.infosys.infyshop.product.entity.SubscribedProduct2save(Ljava/lang/Object;)"Â
+
+…C:/Users/Davis/Downloads/infyshop-main/infyshop-main/src/main/java/com/infosys/infyshop/product/service/SubscribedProductService.java (5-+
+)Product added successfully for subscriber:M
+subscribedProductDTO5com.infosys.infyshop.product.dto.SubscribedProductDTOBA?
+=com.infosys.infyshop.product.service.SubscribedProductService
