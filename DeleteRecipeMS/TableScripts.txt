@@ -1,0 +1,14 @@
+create schema `infy_recipe`;
+use `infy_recipe`;
+CREATE TABLE `recipe`(
+	`recipename` varchar(50) NOT NULL,
+    `dateandtime` datetime NOT NULL default CURRENT_TIMESTAMP,
+    `type` varchar(25),
+    `noofpeople` int NOT NULL,
+    `ingredients` varchar(200) NOT NULL,
+    `instructions` varchar(400) NOT NULL,
+    PRIMARY KEY(`recipename`)
+);
+insert into recipe values("Omelette",current_time(),"non vegetarian", 1, "salt,1 egg, oil", "Beat 1 egg and salt and pour over hot oil pan");
+insert into recipe values("Banana chocolate", current_time(), "vegetarian", 1, "1 slice bread, 1 egg, 2 tablespoons milk, 1 teaspoon cocoa powder, banana, slicedchocolate chip, whipped cream, chocolate syrup", "Slice bread into cubes. In a bowl, add egg, milk, and cocoa powder, and mix. In a microwave-safe mug, place half of the cubed bread and desired amount of bananas and chocolate chips. Place the rest of the bread and fix-ins and pour the egg mixture into the mug. Microwave for 1½ minutes or until egg is fully cooked. Top it off with whipped cream and chocolate syrup.");
+select * from recipe;
